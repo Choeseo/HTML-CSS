@@ -1,0 +1,45 @@
+ @import url(style.css);
+ /* #ff000099 */
+
+.header{
+    font-size: 50px;
+    background-color:#ff000050 ;
+    height : 5em;
+}
+
+.cafe{
+    heigth : 480px;
+    background-color : yellow;
+}
+
+.rland{
+    heigth :530px;
+    background-color: blue;
+}
+
+.spot{
+    heigth :530px;
+    background-color:skyblue
+
+}
+
+.visited-review{
+
+}
+
+.blog{
+
+
+}
+
+.location{
+
+}
+
+.business-hour{
+
+}
+
+.footer{
+
+}
